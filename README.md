@@ -6,3 +6,6 @@ now I am editing the readme.md as a tourguide to study how to use github.
 gogogo ~~
 ~~~~~~~~~~
 更新readme.me 文档
+
+***
+更新readme  在第二分支
