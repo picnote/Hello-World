@@ -65,13 +65,13 @@
 
 ## 3.1、代码块
 
-使用```表示代码块(也可以用来进行预格式)
+使用\```表示代码块(也可以用来进行预格式)
 
 `````
-```
-var canvas = document.getElementById("canvas");
-var context = canvas.getContext("2d");
-```
+	```javascript
+	var canvas = document.getElementById("canvas");
+	var context = canvas.getContext("2d");
+	```
 `````
 
 ```
@@ -85,7 +85,9 @@ var context = canvas.getContext("2d");
 
 使用 \`...\`表示行内代码
 
-```这是`javascript`代码```
+```
+这是`javascript`代码
+```
 
 这是`javascript`代码
 
